@@ -1,3 +1,3 @@
-A quick financial analysis performed from a dataset at hand.
+A quick financial dashboard performed from a dataset at hand.
 
-v1: overview of what matters the most for a business, view 2025 (illustrative)
+v1: overview of what matters the most for a business, view intra 2025 (illustrative)
